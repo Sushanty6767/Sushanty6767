@@ -1,38 +1,39 @@
-# Hi, I'm Sushant Chaturvedi 👋
+<div align="center">
 
-### B.Tech CSE (AI/ML) Student | Python | Java | Machine Learning | Generative AI
+# 👋 Hey, I'm Sushant Chaturvedi
 
-I'm a Computer Science student focused on building practical
-AI/ML and software projects.
+### `B.Tech CSE (AI/ML)` • `Python` • `Java` • `Machine Learning` • `Generative AI`
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=SUSHANT%20CHATURVEDI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20in%20Progress&descAlignY=58&descSize=18" width="100%"/>
 
-### Languages
-Python • Java • C • C++
+</div>
 
-### AI / ML
-Machine Learning • Generative AI • LangChain • Hugging Face
+---
 
-### Data
-NumPy • Pandas • Matplotlib • MySQL
+<div align="center">
 
-### Tools
-Git • GitHub • VS Code
+### 🧠 Building • Learning • Experimenting • Improving
 
-## 🚀 Featured Projects
+I'm a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**.
 
-- 🤖 AI Chatbot — LangChain + Hugging Face
-- 🏠 Boston House Price Prediction — Python + Scikit-learn
-- 💳 Credit Scoring — Machine Learning
-- 🌐 Travel & Tourism Management — Java + MySQL
-- 🌱 KarmaKind — Java + MySQL
+I build practical projects using **Python, Java, Machine Learning, Generative AI, APIs, databases and data analysis**.
 
-## 🎓 Education
+</div>
 
-**B.Tech — Computer Science & Engineering (AI/ML)**  
-Galgotias University  
-Expected Graduation: 2028
+---
 
-## 🔗 Connect With Me
+# 🧑‍💻 About Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
+```text
+🎓 B.Tech CSE (AI/ML)
+🏫 Galgotias University
+📅 Expected Graduation: 2028
+
+💻 Languages      → Python • Java • C • C++
+🤖 AI / ML        → Machine Learning • Generative AI
+🧠 AI Frameworks  → LangChain • Hugging Face
+📊 Data           → NumPy • Pandas • Matplotlib
+🗄️ Database       → MySQL
+🛠️ Tools          → Git • GitHub • VS Code
+
+🚀 Currently building AI/ML and software projects
