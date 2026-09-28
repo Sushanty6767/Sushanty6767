@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sushant Chaturvedi 👋
 
-<!--
-**Sushanty6767/Sushanty6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE (AI/ML) Student | Python | Java | Machine Learning | Generative AI
 
-Here are some ideas to get you started:
+I'm a Computer Science student focused on building practical
+AI/ML and software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+Python • Java • C • C++
+
+### AI / ML
+Machine Learning • Generative AI • LangChain • Hugging Face
+
+### Data
+NumPy • Pandas • Matplotlib • MySQL
+
+### Tools
+Git • GitHub • VS Code
+
+## 🚀 Featured Projects
+
+- 🤖 AI Chatbot — LangChain + Hugging Face
+- 🏠 Boston House Price Prediction — Python + Scikit-learn
+- 💳 Credit Scoring — Machine Learning
+- 🌐 Travel & Tourism Management — Java + MySQL
+- 🌱 KarmaKind — Java + MySQL
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering (AI/ML)**  
+Galgotias University  
+Expected Graduation: 2028
+
+## 🔗 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
